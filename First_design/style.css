@@ -60,6 +60,7 @@ nav{
 .logo{
     display: block;
     width: 8rem;
+    border-radius: 50%;
 }
 
 .landing-page{
